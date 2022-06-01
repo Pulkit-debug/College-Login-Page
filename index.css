@@ -36,11 +36,12 @@
     width: 248px;
     height: auto;
     margin: 19px 0 0 25px;
+    clip-path: circle(180vh at 50% -80vh);
   }
   .logo-heading {
       /* margin: 50px 50px; */
       font-size: 3rem;
-      margin: 40px 20px;
+      margin: auto;
 	text-align: center;
 	text-shadow: -1px -1px 0px rgba(255, 255, 255, 0.637), 1px 1px 0px rgba(124, 137, 130, 0.897);
 	color: rgb(69, 66, 66);
@@ -139,7 +140,7 @@
     .bg-illustration {
       width: 50%;
     }
-  
+
     .login {
       width: 50%;
     }
@@ -150,7 +151,7 @@
       overflow-x: hidden;
     }
   
-    
+     
     .bg-illustration {
       float: none;
       background: url("https://anangpuria.com/wp-content/uploads/2018/05/bsaei-admin-2.jpg") center center;
